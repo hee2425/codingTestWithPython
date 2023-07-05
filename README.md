@@ -32,5 +32,6 @@
 |                         |                | DFS와 BFS        | https://www.acmicpc.net/problem/1260                            | 🌕     |
 | `구현`                  | `백준`         | 반복수열         | https://www.acmicpc.net/problem/2331                            | 🌕     |
 |                         |               | 임시 반장 정하기         | https://www.acmicpc.net/problem/1268                           | 🌑     |
+|                         |               |직사각형 네개의 합집합의 면적 구하기        | [https://www.acmicpc.net/problem/1268 ](https://www.acmicpc.net/problem/2669)                          | 🌑     |
 | `피보나치`              | `프로그래머스` | 피보나치 수      | https://school.programmers.co.kr/learn/courses/30/lessons/12945 | 🌕     |
 | `최소공배수,최대공약수` | `프로그래머스` | N개의 최소공배수 | https://school.programmers.co.kr/learn/courses/30/lessons/12953 | 🌕     |
