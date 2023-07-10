@@ -36,5 +36,6 @@
 |                         |                | 색종이                               | https://www.acmicpc.net/problem/2563                                          | 🌑     |
 |                         |                | 십자카드 문제                        | https://www.acmicpc.net/problem/2659                                          | 🌕     |
 |                         |                | 누울 자리를 찾아라                   | https://www.acmicpc.net/problem/1652                                          | 🌗     |
+|                         |                | 페이지 세기                  |  https://www.acmicpc.net/problem/4821                                        | 🌕     |
 | `피보나치`              | `프로그래머스` | 피보나치 수                          | https://school.programmers.co.kr/learn/courses/30/lessons/12945               | 🌕     |
 | `최소공배수,최대공약수` | `프로그래머스` | N개의 최소공배수                     | https://school.programmers.co.kr/learn/courses/30/lessons/12953               | 🌕     |
